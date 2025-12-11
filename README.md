@@ -92,6 +92,18 @@ Jalankan Migrations
 php artisan migrate
 ```
 
+Tambhakan Database Seed
+
+```bash
+php artisan db:seed
+```
+
+Generate Storage Symlink
+
+``bash
+php artisan storage:link
+```
+
 Jalankan Server
 
 ```bash
